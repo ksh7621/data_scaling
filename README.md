@@ -1,1 +1,1 @@
-# data_scaling
+# feature_scaling
